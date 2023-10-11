@@ -1,0 +1,1 @@
+en el app.js se se encuentra el scrip importado de suma resta, donde se le envia por valor de defecto. el cero
